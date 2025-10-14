@@ -1,0 +1,818 @@
+[
+  {
+    "id": 1,
+    "name": "veirdo doodle",
+    "category": "apparel",
+    "url": "/product-images/veirdo_doodle_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "veirdo graphic",
+    "category": "apparel",
+    "url": "/product-images/veirdo_graphic_2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "women plain",
+    "category": "apparel",
+    "url": "/product-images/women_plain_3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "veirdo black",
+    "category": "apparel",
+    "url": "/product-images/veirdo_black_4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "anime oversize",
+    "category": "apparel",
+    "url": "/product-images/anime_oversize_5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "women jacket",
+    "category": "apparel",
+    "url": "/product-images/women_jacket_6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "men jacket",
+    "category": "apparel",
+    "url": "/product-images/men_jacket_7.jpg"
+  },
+  {
+    "id": 9,
+    "name": "jackets",
+    "category": "apparel",
+    "url": "/product-images/jackets_9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "stylish jacket",
+    "category": "apparel",
+    "url": "/product-images/stylish_jacket_10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "blue jeans",
+    "category": "apparel",
+    "url": "/product-images/blue_jeans_11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "baggy jeans",
+    "category": "apparel",
+    "url": "/product-images/baggy_jeans_12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "dark blue jeans",
+    "category": "apparel",
+    "url": "/product-images/dark_blue_jeans_13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "black jeans",
+    "category": "apparel",
+    "url": "/product-images/black_jeans_14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "aesthetic jeans",
+    "category": "apparel",
+    "url": "/product-images/aesthetic_jeans_15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "red long dress",
+    "category": "apparel",
+    "url": "/product-images/red_long_dress_16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "sky blue dress",
+    "category": "apparel",
+    "url": "/product-images/sky_blue_dress_17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "green dress",
+    "category": "apparel",
+    "url": "/product-images/green_dress_18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "printed dress",
+    "category": "apparel",
+    "url": "/product-images/printed_dress_19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "black dress",
+    "category": "apparel",
+    "url": "/product-images/black_dress_20.jpg"
+  },
+  {
+    "id": 21,
+    "name": "green hoodie",
+    "category": "apparel",
+    "url": "/product-images/green_hoodie_21.jpg"
+  },
+  {
+    "id": 22,
+    "name": "red hoodie",
+    "category": "apparel",
+    "url": "/product-images/red_hoodie_22.jpg"
+  },
+  {
+    "id": 23,
+    "name": "pink hoodie",
+    "category": "apparel",
+    "url": "/product-images/pink_hoodie_23.jpg"
+  },
+  {
+    "id": 24,
+    "name": "weeknd hoodie",
+    "category": "apparel",
+    "url": "/product-images/weeknd_hoodie_24.jpg"
+  },
+  {
+    "id": 25,
+    "name": "veirdo hoodie",
+    "category": "apparel",
+    "url": "/product-images/veirdo_hoodie_25.jpg"
+  },
+  {
+    "id": 26,
+    "name": "bacca bucci sneakers",
+    "category": "footwear",
+    "url": "/product-images/bacca_bucci_sneakers_26.jpg"
+  },
+  {
+    "id": 27,
+    "name": "bacca bucci female sneakers",
+    "category": "footwear",
+    "url": "/product-images/bacca_bucci_female_sneakers_27.jpg"
+  },
+  {
+    "id": 28,
+    "name": "women sneakers",
+    "category": "footwear",
+    "url": "/product-images/women_sneakers_28.jpg"
+  },
+  {
+    "id": 29,
+    "name": "tan leather sneakers",
+    "category": "footwear",
+    "url": "/product-images/tan_leather_sneakers_29.jpg"
+  },
+  {
+    "id": 30,
+    "name": "nike sneakers",
+    "category": "footwear",
+    "url": "/product-images/nike_sneakers_30.jpg"
+  },
+  {
+    "id": 31,
+    "name": "cowboy boots",
+    "category": "footwear",
+    "url": "/product-images/cowboy_boots_31.jpg"
+  },
+  {
+    "id": 32,
+    "name": "women hike boots",
+    "category": "footwear",
+    "url": "/product-images/women_hike_boots_32.jpg"
+  },
+  {
+    "id": 33,
+    "name": "black boots",
+    "category": "footwear",
+    "url": "/product-images/black_boots_33.jpg"
+  },
+  {
+    "id": 34,
+    "name": "elegant black boots",
+    "category": "footwear",
+    "url": "/product-images/elegant_black_boots_34.jpg"
+  },
+  {
+    "id": 35,
+    "name": "formal shoes black",
+    "category": "footwear",
+    "url": "/product-images/formal_shoes_black_35.jpg"
+  },
+  {
+    "id": 36,
+    "name": "paragon formal",
+    "category": "footwear",
+    "url": "/product-images/paragon_formal_36.jpg"
+  },
+  {
+    "id": 37,
+    "name": "formal shoes",
+    "category": "footwear",
+    "url": "/product-images/formal_shoes_37.jpg"
+  },
+  {
+    "id": 38,
+    "name": "formal brown shoes",
+    "category": "footwear",
+    "url": "/product-images/formal_brown_shoes_38.jpg"
+  },
+  {
+    "id": 39,
+    "name": "carlton flip flips",
+    "category": "footwear",
+    "url": "/product-images/carlton_flip_flips_39.jpg"
+  },
+  {
+    "id": 40,
+    "name": "nike flip flops",
+    "category": "footwear",
+    "url": "/product-images/nike_flip_flops_40.jpg"
+  },
+  {
+    "id": 41,
+    "name": "slides",
+    "category": "footwear",
+    "url": "/product-images/slides_41.jpg"
+  },
+  {
+    "id": 42,
+    "name": "printed flip flops",
+    "category": "footwear",
+    "url": "/product-images/printed_flip_flops_42.jpg"
+  },
+  {
+    "id": 43,
+    "name": "sparx flip flops",
+    "category": "footwear",
+    "url": "/product-images/sparx_flip_flops_43.jpg"
+  },
+  {
+    "id": 44,
+    "name": "paragon flip flops",
+    "category": "footwear",
+    "url": "/product-images/paragon_flip_flops_44.jpg"
+  },
+  {
+    "id": 46,
+    "name": "beige lamp",
+    "category": "decor",
+    "url": "/product-images/beige_lamp_46.jpg"
+  },
+  {
+    "id": 47,
+    "name": "modern lamp",
+    "category": "decor",
+    "url": "/product-images/modern_lamp_47.jpg"
+  },
+  {
+    "id": 48,
+    "name": "table lamp",
+    "category": "decor",
+    "url": "/product-images/table_lamp_48.jpg"
+  },
+  {
+    "id": 49,
+    "name": "bedside lamp",
+    "category": "decor",
+    "url": "/product-images/bedside_lamp_49.jpg"
+  },
+  {
+    "id": 50,
+    "name": "floor lamp",
+    "category": "decor",
+    "url": "/product-images/floor_lamp_50.jpg"
+  },
+  {
+    "id": 51,
+    "name": "modern chair",
+    "category": "decor",
+    "url": "/product-images/modern_chair_51.jpg"
+  },
+  {
+    "id": 52,
+    "name": "accent chair",
+    "category": "decor",
+    "url": "/product-images/accent_chair_52.jpg"
+  },
+  {
+    "id": 53,
+    "name": "dining chair",
+    "category": "decor",
+    "url": "/product-images/dining_chair_53.jpg"
+  },
+  {
+    "id": 54,
+    "name": "chair",
+    "category": "decor",
+    "url": "/product-images/chair_54.jpg"
+  },
+  {
+    "id": 55,
+    "name": "stool chair",
+    "category": "decor",
+    "url": "/product-images/stool_chair_55.jpg"
+  },
+  {
+    "id": 56,
+    "name": "wooden stool chair",
+    "category": "decor",
+    "url": "/product-images/wooden_stool_chair_56.jpg"
+  },
+  {
+    "id": 57,
+    "name": "ikea vase",
+    "category": "decor",
+    "url": "/product-images/ikea_vase_57.jpg"
+  },
+  {
+    "id": 58,
+    "name": "elegant vase",
+    "category": "decor",
+    "url": "/product-images/elegant_vase_58.jpg"
+  },
+  {
+    "id": 59,
+    "name": "ceramic vase",
+    "category": "decor",
+    "url": "/product-images/ceramic_vase_59.jpg"
+  },
+  {
+    "id": 60,
+    "name": "flower vase",
+    "category": "decor",
+    "url": "/product-images/flower_vase_60.jpg"
+  },
+  {
+    "id": 61,
+    "name": "bottle shape vase",
+    "category": "decor",
+    "url": "/product-images/bottle_shape_vase_61.jpg"
+  },
+  {
+    "id": 62,
+    "name": "floor vase",
+    "category": "decor",
+    "url": "/product-images/floor_vase_62.jpg"
+  },
+  {
+    "id": 63,
+    "name": "square cushion",
+    "category": "decor",
+    "url": "/product-images/square_cushion_63.jpg"
+  },
+  {
+    "id": 64,
+    "name": "floral cushion",
+    "category": "decor",
+    "url": "/product-images/floral_cushion_64.jpg"
+  },
+  {
+    "id": 65,
+    "name": "printed cushion",
+    "category": "decor",
+    "url": "/product-images/printed_cushion_65.jpg"
+  },
+  {
+    "id": 66,
+    "name": "cotton cushion",
+    "category": "decor",
+    "url": "/product-images/cotton_cushion_66.jpg"
+  },
+  {
+    "id": 67,
+    "name": "embroidered cushion",
+    "category": "decor",
+    "url": "/product-images/embroidered_cushion_67.jpg"
+  },
+  {
+    "id": 68,
+    "name": "seiko clock",
+    "category": "decor",
+    "url": "/product-images/seiko_clock_68.jpg"
+  },
+  {
+    "id": 69,
+    "name": "ikea clock",
+    "category": "decor",
+    "url": "/product-images/ikea_clock_69.jpg"
+  },
+  {
+    "id": 70,
+    "name": "twilight clock",
+    "category": "decor",
+    "url": "/product-images/twilight_clock_70.jpg"
+  },
+  {
+    "id": 71,
+    "name": "railway clock",
+    "category": "decor",
+    "url": "/product-images/railway_clock_71.jpg"
+  },
+  {
+    "id": 72,
+    "name": "jones clock",
+    "category": "decor",
+    "url": "/product-images/jones_clock_72.jpg"
+  },
+  {
+    "id": 73,
+    "name": "pink headphones",
+    "category": "electronics",
+    "url": "/product-images/pink_headphones_73.jpg"
+  },
+  {
+    "id": 74,
+    "name": "beats headphones",
+    "category": "electronics",
+    "url": "/product-images/beats_headphones_74.jpg"
+  },
+  {
+    "id": 75,
+    "name": "bluetooth headphones",
+    "category": "electronics",
+    "url": "/product-images/bluetooth_headphones_75.jpg"
+  },
+  {
+    "id": 76,
+    "name": "bluetooth earphones",
+    "category": "electronics",
+    "url": "/product-images/bluetooth_earphones_76.jpg"
+  },
+  {
+    "id": 77,
+    "name": "qianyun earphones",
+    "category": "electronics",
+    "url": "/product-images/qianyun_earphones_77.jpg"
+  },
+  {
+    "id": 78,
+    "name": "boat earphones",
+    "category": "electronics",
+    "url": "/product-images/boat_earphones_78.jpg"
+  },
+  {
+    "id": 79,
+    "name": "canon dslr",
+    "category": "electronics",
+    "url": "/product-images/canon_dslr_79.jpg"
+  },
+  {
+    "id": 80,
+    "name": "fujifilm polaroid",
+    "category": "electronics",
+    "url": "/product-images/fujifilm_polaroid_80.jpg"
+  },
+  {
+    "id": 81,
+    "name": "sony camera",
+    "category": "electronics",
+    "url": "/product-images/sony_camera_81.jpg"
+  },
+  {
+    "id": 82,
+    "name": "nikon camera",
+    "category": "electronics",
+    "url": "/product-images/nikon_camera_82.jpg"
+  },
+  {
+    "id": 83,
+    "name": "amazon alexa",
+    "category": "electronics",
+    "url": "/product-images/amazon_alexa_83.jpg"
+  },
+  {
+    "id": 84,
+    "name": "jbl partybox",
+    "category": "electronics",
+    "url": "/product-images/jbl_partybox_84.jpg"
+  },
+  {
+    "id": 85,
+    "name": "portronics bluetooth speakers",
+    "category": "electronics",
+    "url": "/product-images/portronics_bluetooth_speakers_85.jpg"
+  },
+  {
+    "id": 86,
+    "name": "zebronics speaker",
+    "category": "electronics",
+    "url": "/product-images/zebronics_speaker_86.jpg"
+  },
+  {
+    "id": 87,
+    "name": "drone",
+    "category": "electronics",
+    "url": "/product-images/drone_87.jpg"
+  },
+  {
+    "id": 88,
+    "name": "dji drone",
+    "category": "electronics",
+    "url": "/product-images/dji_drone_88.jpg"
+  },
+  {
+    "id": 89,
+    "name": "camera drone",
+    "category": "electronics",
+    "url": "/product-images/camera_drone_89.jpg"
+  },
+  {
+    "id": 90,
+    "name": "RC drone",
+    "category": "electronics",
+    "url": "/product-images/rc_drone_90.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Coffee maker",
+    "category": "kitchenware",
+    "url": "/product-images/coffee_maker_91.jpg"
+  },
+  {
+    "id": 92,
+    "name": "philips coffee maker",
+    "category": "kitchenware",
+    "url": "/product-images/philips_coffee_maker_92.jpg"
+  },
+  {
+    "id": 93,
+    "name": "havells coffe maker",
+    "category": "kitchenware",
+    "url": "/product-images/havells_coffe_maker_93.jpg"
+  },
+  {
+    "id": 94,
+    "name": "floral mugs",
+    "category": "kitchenware",
+    "url": "/product-images/floral_mugs_94.jpg"
+  },
+  {
+    "id": 95,
+    "name": "mug",
+    "category": "kitchenware",
+    "url": "/product-images/mug_95.jpg"
+  },
+  {
+    "id": 96,
+    "name": "personalized mugs",
+    "category": "kitchenware",
+    "url": "/product-images/personalized_mugs_96.jpg"
+  },
+  {
+    "id": 97,
+    "name": "non stick pan",
+    "category": "kitchenware",
+    "url": "/product-images/non_stick_pan_97.jpg"
+  },
+  {
+    "id": 98,
+    "name": "prestige pan",
+    "category": "kitchenware",
+    "url": "/product-images/prestige_pan_98.jpg"
+  },
+  {
+    "id": 99,
+    "name": "induction frying pan",
+    "category": "kitchenware",
+    "url": "/product-images/induction_frying_pan_99.jpg"
+  },
+  {
+    "id": 100,
+    "name": "stainless steel pan",
+    "category": "kitchenware",
+    "url": "/product-images/stainless_steel_pan_100.jpg"
+  },
+  {
+    "id": 101,
+    "name": "modern wall art",
+    "category": "decor",
+    "url": "/product-images/modern_wall_art_101.jpg"
+  },
+  {
+    "id": 102,
+    "name": "bliss wall art",
+    "category": "decor",
+    "url": "/product-images/bliss_wall_art_102.jpg"
+  },
+  {
+    "id": 103,
+    "name": "white flower wall art",
+    "category": "decor",
+    "url": "/product-images/white_flower_wall_art_103.jpg"
+  },
+  {
+    "id": 104,
+    "name": "minimal wall art",
+    "category": "decor",
+    "url": "/product-images/minimal_wall_art_104.jpg"
+  },
+  {
+    "id": 105,
+    "name": "birkenstock",
+    "category": "footwear",
+    "url": "/product-images/birkenstock_105.jpg"
+  },
+  {
+    "id": 106,
+    "name": "kids sandal",
+    "category": "footwear",
+    "url": "/product-images/kids_sandal_106.jpg"
+  },
+  {
+    "id": 107,
+    "name": "women sandal",
+    "category": "footwear",
+    "url": "/product-images/women_sandal_107.jpg"
+  },
+  {
+    "id": 108,
+    "name": "rainbow backpack",
+    "category": "accessories",
+    "url": "/product-images/rainbow_backpack_108.jpg"
+  },
+  {
+    "id": 109,
+    "name": "leather backpack",
+    "category": "accessories",
+    "url": "/product-images/leather_backpack_109.jpg"
+  },
+  {
+    "id": 110,
+    "name": "travel backpack",
+    "category": "accessories",
+    "url": "/product-images/travel_backpack_110.jpg"
+  },
+  {
+    "id": 111,
+    "name": "arctic backpack",
+    "category": "accessories",
+    "url": "/product-images/arctic_backpack_111.jpg"
+  },
+  {
+    "id": 112,
+    "name": "waterproof backpack",
+    "category": "accessories",
+    "url": "/product-images/waterproof_backpack_112.jpg"
+  },
+  {
+    "id": 113,
+    "name": "women backpack",
+    "category": "accessories",
+    "url": "/product-images/women_backpack_113.jpg"
+  },
+  {
+    "id": 114,
+    "name": "women handbag",
+    "category": "accessories",
+    "url": "/product-images/women_handbag_114.jpg"
+  },
+  {
+    "id": 115,
+    "name": "green handbag",
+    "category": "accessories",
+    "url": "/product-images/green_handbag_115.jpg"
+  },
+  {
+    "id": 116,
+    "name": "black handbag",
+    "category": "accessories",
+    "url": "/product-images/black_handbag_116.jpg"
+  },
+  {
+    "id": 117,
+    "name": "western handbag",
+    "category": "accessories",
+    "url": "/product-images/western_handbag_117.jpg"
+  },
+  {
+    "id": 118,
+    "name": "timex watch",
+    "category": "accessories",
+    "url": "/product-images/timex_watch_118.jpg"
+  },
+  {
+    "id": 119,
+    "name": "noise smartwatch",
+    "category": "accessories",
+    "url": "/product-images/noise_smartwatch_119.jpg"
+  },
+  {
+    "id": 120,
+    "name": "titan smartwatch",
+    "category": "accessories",
+    "url": "/product-images/titan_smartwatch_120.jpg"
+  },
+  {
+    "id": 121,
+    "name": "sonata watch",
+    "category": "accessories",
+    "url": "/product-images/sonata_watch_121.jpg"
+  },
+  {
+    "id": 122,
+    "name": "ptron smartwatch",
+    "category": "accessories",
+    "url": "/product-images/ptron_smartwatch_122.jpg"
+  },
+  {
+    "id": 123,
+    "name": "smartwatch",
+    "category": "accessories",
+    "url": "/product-images/smartwatch_123.jpg"
+  },
+  {
+    "id": 124,
+    "name": "NY caps",
+    "category": "accessories",
+    "url": "/product-images/ny_caps_124.jpg"
+  },
+  {
+    "id": 125,
+    "name": "puma cap",
+    "category": "accessories",
+    "url": "/product-images/puma_cap_125.jpg"
+  },
+  {
+    "id": 126,
+    "name": "baseball cap",
+    "category": "accessories",
+    "url": "/product-images/baseball_cap_126.jpg"
+  },
+  {
+    "id": 127,
+    "name": "color cap",
+    "category": "accessories",
+    "url": "/product-images/color_cap_127.jpg"
+  },
+  {
+    "id": 128,
+    "name": "ktm cap",
+    "category": "accessories",
+    "url": "/product-images/ktm_cap_128.jpg"
+  },
+  {
+    "id": 129,
+    "name": "polarized sunglasses",
+    "category": "accessories",
+    "url": "/product-images/polarized_sunglasses_129.jpg"
+  },
+  {
+    "id": 130,
+    "name": "rayban aviators",
+    "category": "accessories",
+    "url": "/product-images/rayban_aviators_130.jpg"
+  },
+  {
+    "id": 131,
+    "name": "grey jack sunglasses",
+    "category": "accessories",
+    "url": "/product-images/grey_jack_sunglasses_131.jpg"
+  },
+  {
+    "id": 132,
+    "name": "black sunglassess",
+    "category": "accessories",
+    "url": "/product-images/black_sunglassess_132.jpg"
+  },
+  {
+    "id": 133,
+    "name": "square sunglasses",
+    "category": "accessories",
+    "url": "/product-images/square_sunglasses_133.jpg"
+  },
+  {
+    "id": 134,
+    "name": "belt for men",
+    "category": "accessories",
+    "url": "/product-images/belt_for_men_134.jpg"
+  },
+  {
+    "id": 135,
+    "name": "vintage brown belt",
+    "category": "accessories",
+    "url": "/product-images/vintage_brown_belt_135.jpg"
+  },
+  {
+    "id": 136,
+    "name": "luxury belt",
+    "category": "accessories",
+    "url": "/product-images/luxury_belt_136.jpg"
+  },
+  {
+    "id": 137,
+    "name": "dual shade belt",
+    "category": "accessories",
+    "url": "/product-images/dual_shade_belt_137.jpg"
+  },
+  {
+    "id": 138,
+    "name": "black belt",
+    "category": "accessories",
+    "url": "/product-images/black_belt_138.jpg"
+  }
+]

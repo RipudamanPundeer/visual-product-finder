@@ -1,0 +1,830 @@
+[
+  {
+    "id": 1,
+    "name": "veirdo doodle",
+    "category": "apparel",
+    "url": "https://veirdo.in/cdn/shop/files/ai_creative_0000_Layer_6.jpg?v=1754546584"
+  },
+  {
+    "id": 2,
+    "name": "veirdo graphic",
+    "category": "apparel",
+    "url": "https://veirdo.in/cdn/shop/files/54_1.jpg?v=1754546113"
+  },
+  {
+    "id": 3,
+    "name": "women plain",
+    "category": "apparel",
+    "url": "https://youngtrendz.in/cdn/shop/products/MUSTARDFULLT_ab7e29dc-ed70-4baf-b1e9-6b7874dd52fe.jpg?v=1705580056&width=2000"
+  },
+  {
+    "id": 4,
+    "name": "veirdo black",
+    "category": "apparel",
+    "url": "https://veirdo.in/cdn/shop/files/b_0119493a-9927-4550-8323-baefe5f625c0.jpg?v=1759917565"
+  },
+  {
+    "id": 5,
+    "name": "anime oversize",
+    "category": "apparel",
+    "url": "https://thalasiknitfab.com/cdn/shop/files/TTS_661_ANIME_wOMEN_3_1186x.png?v=1696401980"
+  },
+  {
+    "id": 6,
+    "name": "women jacket",
+    "category": "apparel",
+    "url": "https://m.media-amazon.com/images/I/918VCRr7lrL._UY1100_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "men jacket",
+    "category": "apparel",
+    "url": "https://images.squarespace-cdn.com/content/v1/5fb689a1f5d603479dad38f9/c5caadbd-0067-4e44-bc14-a130328da9b2/Puffa+3.jpg"
+  },
+  {
+    "id": 8,
+    "name": "leather jacket",
+    "category": "apparel",
+    "url": "https://assets.lakelandleather.co.uk/image-factory/0748332eedffc732293c1595fb0ad981493de863~700x930/images/products/Bjuny6cgN2P5jFq6kgNIcrdkZsNUP4otSf8inTw9.jpg"
+  },
+  {
+    "id": 9,
+    "name": "jackets",
+    "category": "apparel",
+    "url": "https://www.iheartpacificnorthwest.com/wp-content/uploads/2024/10/best-insulated-jackets.jpg"
+  },
+  {
+    "id": 10,
+    "name": "stylish jacket",
+    "category": "apparel",
+    "url": "https://tigc.in/cdn/shop/files/0424-RVSBBHDJKT2-1_6.jpg?v=1733320048"
+  },
+  {
+    "id": 11,
+    "name": "blue jeans",
+    "category": "apparel",
+    "url": "https://jimmyluxury.in/cdn/shop/files/IMG_7020.jpg?v=1749016690"
+  },
+  {
+    "id": 12,
+    "name": "baggy jeans",
+    "category": "apparel",
+    "url": "https://image.hm.com/assets/hm/db/7a/db7a9f1af8e95724761923511936c800315adc6a.jpg?imwidth=2160"
+  },
+  {
+    "id": 13,
+    "name": "dark blue jeans",
+    "category": "apparel",
+    "url": "https://www.beyours.in/cdn/shop/files/dark-blue-denim-jeans-1_8a8e1bca-68d3-404e-8f18-df3ea6ab69da.jpg?v=1734194400"
+  },
+  {
+    "id": 14,
+    "name": "black jeans",
+    "category": "apparel",
+    "url": "https://liverpool.co.in/cdn/shop/files/DSC09326.jpg?v=1708012362"
+  },
+  {
+    "id": 15,
+    "name": "aesthetic jeans",
+    "category": "apparel",
+    "url": "https://www.ydwc.co.in/cdn/shop/products/a060a76b-6095-4a96-a58e-e3afeed37ac8.jpg?v=1697121003"
+  },
+  {
+    "id": 16,
+    "name": "red long dress",
+    "category": "apparel",
+    "url": "https://www.ordinaree.com/cdn/shop/files/DSC_8875_1200x1200.jpg?v=1756703512"
+  },
+  {
+    "id": 17,
+    "name": "sky blue dress",
+    "category": "apparel",
+    "url": "https://www.vastranand.in/cdn/shop/files/1_bc4cce67-0c92-4034-b34b-644c1cd9ea66.jpg?v=1743074442"
+  },
+  {
+    "id": 18,
+    "name": "green dress",
+    "category": "apparel",
+    "url": "https://www.ordinaree.com/cdn/shop/files/DSC_8696_3456x.jpg?v=1756703522"
+  },
+  {
+    "id": 19,
+    "name": "printed dress",
+    "category": "apparel",
+    "url": "https://www.oldmarigold.com/cdn/shop/files/11_2eacba83-ca29-412f-ae71-2d434d1cc838.png?v=1707746852&width=800"
+  },
+  {
+    "id": 20,
+    "name": "black dress",
+    "category": "apparel",
+    "url": "https://littleboxindia.com/cdn/shop/files/Summer_Elegant_Solid_Color_Puff_Sleeve_Cinch_Waist_Black_Dress.png?v=1750670340"
+  },
+  {
+    "id": 21,
+    "name": "green hoodie",
+    "category": "apparel",
+    "url": "https://veirdo.in/cdn/shop/files/Anger_Green_Oversized_Pocket_Graphic_Printed_Hoodie.jpg?v=1754544896"
+  },
+  {
+    "id": 22,
+    "name": "red hoodie",
+    "category": "apparel",
+    "url": "https://www.bonkerscorner.com/cdn/shop/files/red-signature-oversized-heavyweight-hoodie-fleece-xs-bonkerscorner-store-33689236373604.jpg?v=1728980310"
+  },
+  {
+    "id": 23,
+    "name": "pink hoodie",
+    "category": "apparel",
+    "url": "https://eu.blakelyclothing.com/cdn/shop/files/ISABELPINK6_1_700x.jpg?v=1744628207"
+  },
+  {
+    "id": 24,
+    "name": "weeknd hoodie",
+    "category": "apparel",
+    "url": "https://blackstop.in/cdn/shop/files/1_fe6736ab-cf3f-495d-a678-5fe4148b1a79.jpg?v=1709296955&width=2487"
+  },
+  {
+    "id": 25,
+    "name": "veirdo hoodie",
+    "category": "apparel",
+    "url": "https://veirdo.in/cdn/shop/files/Hustle-Mode-Back-Print-Men-s-Oversized-Hoodie-Veirdo-7388.jpg?v=1754544748"
+  },
+  {
+    "id": 26,
+    "name": "bacca bucci sneakers",
+    "category": "footwear",
+    "url": "https://baccabucci.com/cdn/shop/files/MG_9335.jpg?v=1721638085"
+  },
+  {
+    "id": 27,
+    "name": "bacca bucci female sneakers",
+    "category": "footwear",
+    "url": "https://baccabucci.com/cdn/shop/files/IMG_7322_d758ea1e-b457-4fa6-bc25-16f414f60e9b.jpg?v=1694165818"
+  },
+  {
+    "id": 28,
+    "name": "women sneakers",
+    "category": "footwear",
+    "url": "https://www.blackstonefootwear.com/media/a6/db/48/1739197152/1080x1350_DL260.WHITE.COBBLE-RORY.1.jpg?ts=1739197152"
+  },
+  {
+    "id": 29,
+    "name": "tan leather sneakers",
+    "category": "footwear",
+    "url": "https://www.dmodot.com/cdn/shop/files/IMG_5784.jpg?v=1722330420"
+  },
+  {
+    "id": 30,
+    "name": "nike sneakers",
+    "category": "footwear",
+    "url": "https://cdn.thewirecutter.com/wp-content/media/2025/06/BEST-WHITE-SNEAKERS-SUB-2048px-3916.jpg?auto=webp&quality=75&width=1024"
+  },
+  {
+    "id": 31,
+    "name": "cowboy boots",
+    "category": "footwear",
+    "url": "https://assets.myntassets.com/w_412,q_30,dpr_3,fl_progressive,f_webp/assets/images/30941126/2024/9/20/9d450718-5f81-412b-91a8-7185e7eceae01726839993208-The-Roadster-Lifestyle-Co-Women-High-Top-Boots-7681726839992-1.jpg"
+  },
+  {
+    "id": 32,
+    "name": "women hike boots",
+    "category": "footwear",
+    "url": "https://craftandglory.in/cdn/shop/files/b5.jpg?v=1714731415&width=1500"
+  },
+  {
+    "id": 33,
+    "name": "black boots",
+    "category": "footwear",
+    "url": "https://www.voganow.com/cdn/shop/files/VNGS-88231-01-MLD-PLN-ZP-GM_1_e1524e0d-dc41-40e7-95da-32e9768193e8.jpg?v=1754483792"
+  },
+  {
+    "id": 34,
+    "name": "elegant black boots",
+    "category": "footwear",
+    "url": "https://bravomoda.eu/7710/elegant-black-boots-with-a-stable-heel-made-of-natural-grain-leather.jpg"
+  },
+  {
+    "id": 35,
+    "name": "formal shoes black",
+    "category": "footwear",
+    "url": "https://www.zoomshoes.in/cdn/shop/files/PG64BL_1.jpg?v=1688448197"
+  },
+  {
+    "id": 36,
+    "name": "paragon formal",
+    "category": "footwear",
+    "url": "https://paragonfootwear.com/cdn/shop/products/K11239G_BLK_1.jpg?v=1756713401&width=1920"
+  },
+  {
+    "id": 37,
+    "name": "formal shoes",
+    "category": "footwear",
+    "url": "https://m.media-amazon.com/images/I/81nBa+4b7eL._UY1000_.jpg"
+  },
+  {
+    "id": 38,
+    "name": "formal brown shoes",
+    "category": "footwear",
+    "url": "https://teakwoodleathers.com/cdn/shop/files/T_SH_ST_LU302_BR_1080x.jpg?v=1750933219"
+  },
+  {
+    "id": 39,
+    "name": "carlton flip flips",
+    "category": "footwear",
+    "url": "https://assets.myntassets.com/w_412,q_30,dpr_3,fl_progressive,f_webp/assets/images/30816823/2024/10/30/f2d85c73-5c07-467b-8f16-51d719070bec1730294812123-Carlton-London-Men-Rubber-Thong-Flip-Flops-791730294811613-1.jpg"
+  },
+  {
+    "id": 40,
+    "name": "nike flip flops",
+    "category": "footwear",
+    "url": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/494617ba-a09a-4b22-8448-44227eb6eaae/NIKE+CALM+FLIP+FLOP.png"
+  },
+  {
+    "id": 41,
+    "name": "slides",
+    "category": "footwear",
+    "url": "https://m.media-amazon.com/images/I/51s2gc69-ML._UY1000_.jpg"
+  },
+  {
+    "id": 42,
+    "name": "printed flip flops",
+    "category": "footwear",
+    "url": "https://contents.mediadecathlon.com/p2829876/d5fe89e95b6f281aa65ed85a1e4b5802/p2829876.jpg"
+  },
+  {
+    "id": 43,
+    "name": "sparx flip flops",
+    "category": "footwear",
+    "url": "https://relaxofootwear.com/cdn/shop/files/SF0037G-OLWH-16.jpg?v=1754545500&width=800"
+  },
+  {
+    "id": 44,
+    "name": "paragon flip flops",
+    "category": "footwear",
+    "url": "https://paragonfootwear.com/cdn/shop/products/K3311G_BRN_P1.jpg?v=1756713430&width=1920"
+  },
+  {
+    "id": 45,
+    "name": "women flip flops",
+    "category": "footwear",
+    "url": "https://nationaltoday.com/wp-content/uploads/2021/06/Flip-Flop.jpg"
+  },
+  {
+    "id": 46,
+    "name": "beige lamp",
+    "category": "decor",
+    "url": "https://www.homesake.in/cdn/shop/files/IH0F143-PJT-1-Theme.jpg?v=1748346148"
+  },
+  {
+    "id": 47,
+    "name": "modern lamp",
+    "category": "decor",
+    "url": "https://images-cdn.ubuy.co.in/6345dda47874a038a705d1a6-carlton-modern-rustic-southwestern-table.jpg"
+  },
+  {
+    "id": 48,
+    "name": "table lamp",
+    "category": "decor",
+    "url": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2024/AUGUST/7/IDf6W0FU_aaedbd15f7c146fb898fa8ae55bf1c3d.jpg"
+  },
+  {
+    "id": 49,
+    "name": "bedside lamp",
+    "category": "decor",
+    "url": "https://www.homesake.in/cdn/shop/files/81vBzovGknL.jpg?v=1753092919&width=1920"
+  },
+  {
+    "id": 50,
+    "name": "floor lamp",
+    "category": "decor",
+    "url": "https://images.woodenstreet.de/image/cache/data/home-decors/lamps-lighting/floor-lamps/beige-wooden-floor-lamp-with-white-shade/beige-wooden-floor-lamp-with-white-shade/1-810x702.jpg"
+  },
+  {
+    "id": 51,
+    "name": "modern chair",
+    "category": "decor",
+    "url": "https://m.media-amazon.com/images/I/81BMUJQEBtL.jpg"
+  },
+  {
+    "id": 52,
+    "name": "accent chair",
+    "category": "decor",
+    "url": "https://uberdecor.in/cdn/shop/files/S8dbf362d210f437c8e06b7c816272cdf9.webp?crop=center&height=645&v=1759761216&width=645"
+  },
+  {
+    "id": 53,
+    "name": "dining chair",
+    "category": "decor",
+    "url": "https://www.nismaayadecor.in/cdn/shop/files/efren-solid-mango-wood-dining-chair_1.jpg?v=1732534887&width=1080"
+  },
+  {
+    "id": 54,
+    "name": "chair",
+    "category": "decor",
+    "url": "https://www.bocadolobo.com/blog/wp-content/uploads/2024/03/imperfectio-dining-chair-ambience-1-boca-do-lobo.jpg"
+  },
+  {
+    "id": 55,
+    "name": "stool chair",
+    "category": "decor",
+    "url": "https://images.woodenstreet.de/image/cache/data/stools/clan-stool-walnut-finish/aqua-flower/updated/revised/new-logo/1-810x702.jpg"
+  },
+  {
+    "id": 56,
+    "name": "wooden stool chair",
+    "category": "decor",
+    "url": "https://m.media-amazon.com/images/I/61UtyE9Y-bL.jpg"
+  },
+  {
+    "id": 57,
+    "name": "ikea vase",
+    "category": "decor",
+    "url": "https://www.ikea.com/ext/ingkadam/m/49cd5537f55ff5a1/original/PH205335.jpg?f=s"
+  },
+  {
+    "id": 58,
+    "name": "elegant vase",
+    "category": "decor",
+    "url": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/27280166/2024/1/30/a77ae924-4bbd-4c2e-a8aa-17efd634ce0b1706611036619Vases1.jpg"
+  },
+  {
+    "id": 59,
+    "name": "ceramic vase",
+    "category": "decor",
+    "url": "https://m.media-amazon.com/images/I/61KvH-iybDL._UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 60,
+    "name": "flower vase",
+    "category": "decor",
+    "url": "https://m.media-amazon.com/images/I/81yWPT-cNlL.jpg"
+  },
+  {
+    "id": 61,
+    "name": "bottle shape vase",
+    "category": "decor",
+    "url": "https://img.fkcdn.com/image/xif0q/vase/i/q/u/2-bottle-shape-flower-vase-office-table-living-room-center-table-original-imaghr5hfssgdfnz.jpeg"
+  },
+  {
+    "id": 62,
+    "name": "floor vase",
+    "category": "decor",
+    "url": "https://thedecorkart.com/cdn/shop/collections/WhatsApp-Image-2024-04-29-at-6.03.jpg?v=1714723317"
+  },
+  {
+    "id": 63,
+    "name": "square cushion",
+    "category": "decor",
+    "url": "https://craftsmill.in/cdn/shop/files/Cover_1.jpg?v=1725622910"
+  },
+  {
+    "id": 64,
+    "name": "floral cushion",
+    "category": "decor",
+    "url": "https://www.troost.in/cdn/shop/files/Cushion12-01.jpg?v=1692093054&width=2048"
+  },
+  {
+    "id": 65,
+    "name": "printed cushion",
+    "category": "decor",
+    "url": "https://m.media-amazon.com/images/I/810MYb1M0OL.jpg"
+  },
+  {
+    "id": 66,
+    "name": "cotton cushion",
+    "category": "decor",
+    "url": "https://kapaaskatha.in/cdn/shop/products/image_4a6feff8-df03-472b-b99c-32020a260428.jpg?v=1734079746&width=1214"
+  },
+  {
+    "id": 67,
+    "name": "embroidered cushion",
+    "category": "decor",
+    "url": "https://kapaaskatha.in/cdn/shop/products/image_c53f8987-a362-41e7-b384-a98b09197b2c.heic?v=1664753574&width=1214"
+  },
+  {
+    "id": 68,
+    "name": "seiko clock",
+    "category": "decor",
+    "url": "https://www.seikoclocks.in/cdn/shop/files/TJM_6797_1024x.jpg?v=1732769593"
+  },
+  {
+    "id": 69,
+    "name": "ikea clock",
+    "category": "decor",
+    "url": "https://www.ikea.com/in/en/images/products/pluttis-wall-clock-red__1013097_pe829051_s5.jpg"
+  },
+  {
+    "id": 70,
+    "name": "twilight clock",
+    "category": "decor",
+    "url": "https://www.dekorcompany.com/cdn/shop/files/6_dacc325f-0276-4e63-bf20-03c6cc4a7d09.jpg?v=1725081925"
+  },
+  {
+    "id": 71,
+    "name": "railway clock",
+    "category": "decor",
+    "url": "https://images.woodenstreet.de/image/cache/data/home-decors/clocks/wall-clocks/golden-victoria-plastic-station-clock/updated/1-750x650.jpg"
+  },
+  {
+    "id": 72,
+    "name": "jones clock",
+    "category": "decor",
+    "url": "https://m.media-amazon.com/images/I/71QNwFODEZL._UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 73,
+    "name": "pink headphones",
+    "category": "electronics",
+    "url": "https://m.media-amazon.com/images/I/610ub5kytVL.jpg"
+  },
+  {
+    "id": 74,
+    "name": "beats headphones",
+    "category": "electronics",
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQTP3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=SUFReFd6NEVVOW50TTcxUzVyWlhHZ2tuVHYzMERCZURia3c5SzJFOTlPZ3oveDdpQVpwS0ltY2w2UW05aU90TzVtaW9peGdOaitwV1Nxb1VublZoTVE"
+  },
+  {
+    "id": 75,
+    "name": "bluetooth headphones",
+    "category": "electronics",
+    "url": "https://m.media-amazon.com/images/I/61RahTQtAqL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 76,
+    "name": "bluetooth earphones",
+    "category": "electronics",
+    "url": "https://baseus.io/cdn/shop/files/4b64d229a2807a39474f8972e3d53bb7_2048x.jpg?v=1695316363"
+  },
+  {
+    "id": 77,
+    "name": "qianyun earphones",
+    "category": "electronics",
+    "url": "https://www.theaudiostore.in/cdn/shop/files/qianyun-qian99-wired-earphones-black-silver-40790708322559.webp?v=1744393703"
+  },
+  {
+    "id": 78,
+    "name": "boat earphones",
+    "category": "electronics",
+    "url": "https://assets.myntassets.com/w_412,q_30,dpr_3,fl_progressive,f_webp/assets/images/1832196/2020/7/29/b999f4af-278a-4a13-b491-d9c3268b78691596010503934-boAt-BassHeads-100-Black-Wired-Earphones-with-Enhanced-Bass--1.jpg"
+  },
+  {
+    "id": 79,
+    "name": "canon dslr",
+    "category": "electronics",
+    "url": "https://images-cdn.ubuy.co.in/65fe64a89de64a706c0120dc-canon-eos-5d-mark-iv-dslr-camera-with.jpg"
+  },
+  {
+    "id": 80,
+    "name": "fujifilm polaroid",
+    "category": "electronics",
+    "url": "https://m.media-amazon.com/images/I/61Aj10ec8KL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 81,
+    "name": "sony camera",
+    "category": "electronics",
+    "url": "https://www.sony-asia.com/image/b2e494fbba7667cdbe3dbd60e7f7ff50?fmt=jpeg&wid=1160&qlt=43"
+  },
+  {
+    "id": 82,
+    "name": "nikon camera",
+    "category": "electronics",
+    "url": "https://m.media-amazon.com/images/I/71iKNJ6rVIL.jpg"
+  },
+  {
+    "id": 83,
+    "name": "amazon alexa",
+    "category": "electronics",
+    "url": "https://m.media-amazon.com/images/I/61ZV-IU4u8L.AC_SX500.jpg"
+  },
+  {
+    "id": 84,
+    "name": "jbl partybox",
+    "category": "electronics",
+    "url": "https://avstore.in/cdn/shop/files/2.AVStore-JBL-PartyBox-110-160W-Portable-Wireless-Speaker-Front-Left-Angled-View.jpg?v=1682411625&width=2000"
+  },
+  {
+    "id": 85,
+    "name": "portronics bluetooth speakers",
+    "category": "electronics",
+    "url": "https://www.portronics.com/cdn/shop/files/Breeze51500x1500.jpg?v=1709713123"
+  },
+  {
+    "id": 86,
+    "name": "zebronics speaker",
+    "category": "electronics",
+    "url": "https://shop.zebronics.com/cdn/shop/files/Zeb-Axon-200--pic-1.jpg?v=1734502510&width=2000"
+  },
+  {
+    "id": 87,
+    "name": "drone",
+    "category": "electronics",
+    "url": "https://m.media-amazon.com/images/I/41WwyhHWLbL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 88,
+    "name": "dji drone",
+    "category": "electronics",
+    "url": "https://m.media-amazon.com/images/I/51PpwI26rXL._UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 89,
+    "name": "camera drone",
+    "category": "electronics",
+    "url": "https://toyloft.in/cdn/shop/files/DronewithCameraforAdults_3.jpg?v=1717587327"
+  },
+  {
+    "id": 90,
+    "name": "RC drone",
+    "category": "electronics",
+    "url": "https://toyloft.in/cdn/shop/files/RCDroneQuadcopterRotationAdjustableCameraforVideo_MS-May-54_1.jpg?v=1717500534"
+  },
+  {
+    "id": 91,
+    "name": "Coffee maker",
+    "category": "kitchenware",
+    "url": "https://m.media-amazon.com/images/I/61x2BKrHBKL._UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 92,
+    "name": "philips coffee maker",
+    "category": "kitchenware",
+    "url": "https://images.philips.com/is/image/philipsconsumer/vrs_a6f229ac53eb2ad8dcf9e281050310d76783fec6?$pnglarge$&wid=960"
+  },
+  {
+    "id": 93,
+    "name": "havells coffe maker",
+    "category": "kitchenware",
+    "url": "https://havells.com/media/catalog/product/import/Appliances/GHBCMAKS080.jpg"
+  },
+  {
+    "id": 94,
+    "name": "floral mugs",
+    "category": "kitchenware",
+    "url": "https://nestasia.in/cdn/shop/files/coffeecupset_1.jpg?v=1701432156&width=600"
+  },
+  {
+    "id": 95,
+    "name": "mug",
+    "category": "kitchenware",
+    "url": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/29960478/2024/6/13/ccb251c3-6c9a-43af-b4d8-38bda5567bdc1718278710960CupsandMugs1.jpg"
+  },
+  {
+    "id": 96,
+    "name": "personalized mugs",
+    "category": "kitchenware",
+    "url": "https://thepreciousgifts.in/wp-content/uploads/2023/04/Customized-Couple-Coffee-Mugs-with-Name-and-Date.jpg"
+  },
+  {
+    "id": 97,
+    "name": "non stick pan",
+    "category": "kitchenware",
+    "url": "https://m.media-amazon.com/images/I/81COU6udPbL._UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 98,
+    "name": "prestige pan",
+    "category": "kitchenware",
+    "url": "https://judge.ttkprestige.com/media/catalog/product/8/8/8859-38427-IMG1.jpg"
+  },
+  {
+    "id": 99,
+    "name": "induction frying pan",
+    "category": "kitchenware",
+    "url": "https://circulon.uk.com/cdn/shop/files/0004_FullresJPG-81837_CIR_CJM_12inFryPan_Graphite_Main-min.jpg?v=1754395353&width=900"
+  },
+  {
+    "id": 100,
+    "name": "stainless steel pan",
+    "category": "kitchenware",
+    "url": "https://cdn.sanity.io/images/fr9flhkd/main/373c69b9b5ab750ca3e9d486aca638ba8f9b48b4-1500x1500.jpg?fm=webp&q=75&w=1280"
+  },
+  {
+    "id": 101,
+    "name": "modern wall art",
+    "category": "decor",
+    "url": "https://m.media-amazon.com/images/I/71vDD2QGl-L.jpg"
+  },
+  {
+    "id": 102,
+    "name": "bliss wall art",
+    "category": "decor",
+    "url": "https://icmedianew.gumlet.io/pub/media/catalog/product/i/n/india-circus-by-krsnaa-mehta-enchanted-bliss-wall-art-set-of-3-60121013sd00735-2.jpg"
+  },
+  {
+    "id": 103,
+    "name": "white flower wall art",
+    "category": "decor",
+    "url": "https://artstreet.in/cdn/shop/files/8197B-2W4UL._SL1500_85fbb541-e0d6-4b9d-b669-34d7c6f398bd_700x700.jpg?v=1755504162"
+  },
+  {
+    "id": 104,
+    "name": "minimal wall art",
+    "category": "decor",
+    "url": "https://kotart.in/cdn/shop/files/PaintingGSBL193_3.jpg?v=1697559791&width=1445"
+  },
+  {
+    "id": 105,
+    "name": "birkenstock",
+    "category": "footwear",
+    "url": "https://m.media-amazon.com/images/I/81Y9g5hFOiL._UY1000_.jpg"
+  },
+  {
+    "id": 106,
+    "name": "kids sandal",
+    "category": "footwear",
+    "url": "https://www.walkaroo.in/cdn/shop/files/WG5902-BLACK_BLACK-BOYS.jpg?v=1753514039"
+  },
+  {
+    "id": 107,
+    "name": "women sandal",
+    "category": "footwear",
+    "url": "https://images-cdn.ubuy.co.in/653862f05974fe1cc01c8dac-fitory-women-39-s-flat-sandals-fashion.jpg"
+  },
+  {
+    "id": 108,
+    "name": "rainbow backpack",
+    "category": "accessories",
+    "url": "https://mokobara.com/cdn/shop/files/The-Cheddar-Backpack_JB-1.jpg?v=1739271728&width=2048"
+  },
+  {
+    "id": 109,
+    "name": "leather backpack",
+    "category": "accessories",
+    "url": "https://mahetri.in/cdn/shop/collections/Leather-Laptop-Bag_1000x1000.jpg?v=1649314609"
+  },
+  {
+    "id": 110,
+    "name": "travel backpack",
+    "category": "accessories",
+    "url": "https://icon.in/cdn/shop/files/1_50b8664b-0c2b-477a-9d86-ed6fce060859.jpg?v=1756985540&width=1946"
+  },
+  {
+    "id": 111,
+    "name": "arctic backpack",
+    "category": "accessories",
+    "url": "https://m.media-amazon.com/images/I/61AtqEZBfFL._UY1100_.jpg"
+  },
+  {
+    "id": 112,
+    "name": "waterproof backpack",
+    "category": "accessories",
+    "url": "https://www.slam.com/cdn/shop/files/A463006S00_W01_BACKPACK_F_ACC_016_13148.webp?v=1710245242&width=1946"
+  },
+  {
+    "id": 113,
+    "name": "women backpack",
+    "category": "accessories",
+    "url": "https://nestasia.in/cdn/shop/files/DSC0330.jpg?v=1683546932&width=600"
+  },
+  {
+    "id": 114,
+    "name": "women handbag",
+    "category": "accessories",
+    "url": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/30757114/2024/10/23/4b6129f3-d177-4ac4-9b63-ba89217a1daa1729706066027-Lavie-Miranda-Monogram-Printed-Oversized-Structured-Handheld-1.jpg"
+  },
+  {
+    "id": 115,
+    "name": "green handbag",
+    "category": "accessories",
+    "url": "https://m.media-amazon.com/images/I/812rQjFNxaL._UY1000_.jpg"
+  },
+  {
+    "id": 116,
+    "name": "black handbag",
+    "category": "accessories",
+    "url": "https://nestasia.in/cdn/shop/files/Handbag_3_23359879-2279-4cfb-9332-40744bb3892b.jpg?v=1706518975&width=600"
+  },
+  {
+    "id": 117,
+    "name": "western handbag",
+    "category": "accessories",
+    "url": "https://imagescdn.vanheusenindia.com/img/app/product/3/39702888-14423007.jpg"
+  },
+  {
+    "id": 118,
+    "name": "timex watch",
+    "category": "accessories",
+    "url": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/22744376/2025/7/29/e2a0a5fd-579f-49cb-9a70-c40e10aeea681753772436346-Timex-Men-Regular-Style-Analogue-Watch-TWEG165SMU06-76817537-15.jpg"
+  },
+  {
+    "id": 119,
+    "name": "noise smartwatch",
+    "category": "accessories",
+    "url": "https://m.media-amazon.com/images/I/61Iw0g8zYYL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 120,
+    "name": "titan smartwatch",
+    "category": "accessories",
+    "url": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwccf4d845/images/Titan/Catalog/90207QM01_1.jpg?sw=600&sh=600"
+  },
+  {
+    "id": 121,
+    "name": "sonata watch",
+    "category": "accessories",
+    "url": "https://www.sonatawatches.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw4bcefb11/images/Sonata/Catalog/77105SM12W_1.jpg?sw=600&sh=600"
+  },
+  {
+    "id": 122,
+    "name": "ptron smartwatch",
+    "category": "accessories",
+    "url": "https://ptron.in/cdn/shop/files/B0C81WSDV1.MAIN.jpg?v=1690546549"
+  },
+  {
+    "id": 123,
+    "name": "smartwatch",
+    "category": "accessories",
+    "url": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/2/wPeJB3ov_eb3fab02662e41cc99787f3ea23c494e.jpg"
+  },
+  {
+    "id": 124,
+    "name": "NY caps",
+    "category": "accessories",
+    "url": "https://m.media-amazon.com/images/I/71Ss21WxPsL._UY1100_.jpg"
+  },
+  {
+    "id": 125,
+    "name": "puma cap",
+    "category": "accessories",
+    "url": "https://www.superkicks.in/cdn/shop/files/1-2025-10-08T114700.620_edcb82ab-44a8-4b7f-bd15-df6501d4fa3c.jpg?v=1759904265&width=533"
+  },
+  {
+    "id": 126,
+    "name": "baseball cap",
+    "category": "accessories",
+    "url": "https://images-cdn.ubuy.co.in/654796080c41125dc934a424-top-level-baseball-cap-men-women.jpg"
+  },
+  {
+    "id": 127,
+    "name": "color cap",
+    "category": "accessories",
+    "url": "https://cdn.shopify.com/s/files/1/0661/7423/files/flipped-kids-cap.jpg?v=1628155115"
+  },
+  {
+    "id": 128,
+    "name": "ktm cap",
+    "category": "accessories",
+    "url": "https://ktmdirect.co.uk/cdn/shop/files/KTM-Kids-Logo-Cap-Orange-3PW25001890-Front_2000x.jpg?v=1752061338"
+  },
+  {
+    "id": 129,
+    "name": "polarized sunglasses",
+    "category": "accessories",
+    "url": "https://m.media-amazon.com/images/I/61LmgjlHIaL._UY1100_.jpg"
+  },
+  {
+    "id": 130,
+    "name": "rayban aviators",
+    "category": "accessories",
+    "url": "https://optorium.in/cdn/shop/files/Ray_Ban_3025_9196_sunglass_images_01_ea299e29-fdb1-4688-ac58-401c2d053f47.jpg?v=1754383705&width=2048"
+  },
+  {
+    "id": 131,
+    "name": "grey jack sunglasses",
+    "category": "accessories",
+    "url": "https://greyjack.in/cdn/shop/files/GREYJACK3241-C3-01.jpg?v=1702014674"
+  },
+  {
+    "id": 132,
+    "name": "black sunglassess",
+    "category": "accessories",
+    "url": "https://assets.ajio.com/medias/sys_master/root1/20250905/YTlI/68ba9cf03d468c61abcae5f2/-1117Wx1400H-462329051-gold-MODEL.jpg"
+  },
+  {
+    "id": 133,
+    "name": "square sunglasses",
+    "category": "accessories",
+    "url": "https://images.thdstatic.com/productImages/dfdbc924-1990-470e-a016-811d33730061/svn/shadedeye-safety-glasses-85946-16-64_600.jpg"
+  },
+  {
+    "id": 134,
+    "name": "belt for men",
+    "category": "accessories",
+    "url": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/JANUARY/14/Iwo2DAKR_9879fc3879b14dd3989d3e2a0a9b5aa9.jpg"
+  },
+  {
+    "id": 135,
+    "name": "vintage brown belt",
+    "category": "accessories",
+    "url": "https://craftandglory.in/cdn/shop/files/DSC03583-01.jpg?v=1686902073&width=1946"
+  },
+  {
+    "id": 136,
+    "name": "luxury belt",
+    "category": "accessories",
+    "url": "https://www.escaro.in/cdn/shop/files/IMG_105100.jpg?v=1748886619&width=2048"
+  },
+  {
+    "id": 137,
+    "name": "dual shade belt",
+    "category": "accessories",
+    "url": "https://www.voganow.com/cdn/shop/files/VNGBT-136-09-014-GL_1.jpg?v=1753944148"
+  },
+  {
+    "id": 138,
+    "name": "black belt",
+    "category": "accessories",
+    "url": "https://admin.mochishoes.com/product/195-30/660/195-30M11.jpg"
+  }
+]
