@@ -4,7 +4,7 @@ A web application built with Python and Streamlit that allows users to find visu
 ## 🚀 Live Application
 You can access the live version here: **[Visual Product Matcher Demo](https://https://visualfinder0303.streamlit.app/)**
 
-![Visual Product Matcher App Screenshot]("https://github.com/user-attachments/assets/e1c322b4-43a8-4422-bc3a-153fe26b3b5d")
+![Visual Product Matcher App Screenshot](image.png)
 
 ## ✨ Key Features
 
